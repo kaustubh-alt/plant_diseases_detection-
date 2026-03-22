@@ -2,6 +2,9 @@
 
 This file provides instructions to download, install dependencies, and run the project.
 
+## 0. Download from this driveLink 
+- Drive Link : `https://drive.google.com/file/d/1iK3TkgAGxqwDULnkj-k3p9RcVGzOlnTv/view?usp=sharing`
+
 ## 1. Prerequisites
 
 - Windows 10/11 (or Linux/Mac with minor path adjustments)
